@@ -1,7 +1,7 @@
 # Hi there, I'm Dachi and these are my stats! 💥
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=outxrs&show_icons=true&theme=radical"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datoegoyan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outxrs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
