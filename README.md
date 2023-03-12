@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
- My sertificates :
+ My sertificates : <br>
 [შონია დაჩი (1).pdf](https://github.com/outxrs/outxrs/files/10951855/1.pdf)
   <br>
 [შონია დაჩი.pdf](https://github.com/outxrs/outxrs/files/10951856/default.pdf)
