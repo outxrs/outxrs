@@ -11,7 +11,9 @@
  
  My sertificates :
 [შონია დაჩი (1).pdf](https://github.com/outxrs/outxrs/files/10951855/1.pdf)
+  <br>
 [შონია დაჩი.pdf](https://github.com/outxrs/outxrs/files/10951856/default.pdf)
+  <br>
 <img width="600" alt="Screenshot 2023-02-20 at 03 23 30" src="https://user-images.githubusercontent.com/99031790/224568867-d242a998-0a09-4bfb-adff-b7a5683db48e.png">
 
 
